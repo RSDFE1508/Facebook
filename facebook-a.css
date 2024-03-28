@@ -1,0 +1,175 @@
+.account{
+  background-color: white;
+  height: 385px;
+  box-shadow: 0px -100px 10px rgba(0, 0, 0, 1);
+  z-index: 0;
+  margin-bottom: 0px;
+}
+
+.background-picture{
+  background-color: rgb(240, 242, 245);
+  height: 270px;
+  margin-left: 136px;
+  width: 628px;
+  border-radius: 3px;
+}
+
+.profile-picture{
+  height: 115px;
+  border-radius: 55px;
+  margin-top: 220px;
+  margin-left: 25px;
+  border: 0px solid white;
+  box-shadow: 3px -3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.status,
+.username{
+  font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+}
+
+.other-than-pictures{
+  height: 50px;
+  width: 480px;
+  display: block;
+  margin-left: 285px;
+  margin-top: 15px;
+  align-items: start;
+}
+
+.username-and-status{
+  height: 50px;
+  width: 200px;
+  display: inline-block;
+  margin-left: 0px;
+}
+
+.username{
+  margin-left: 0px;
+  font-size: 20px;
+  margin-top: 0px;
+  display: block;
+  font-weight: 800;
+}
+
+.status{
+  color: rgb(101, 103, 107);
+  font-size: 10px;
+  margin-left: 2px;
+  font-weight: bold;
+}
+
+.message-like-search{
+  height: 26px;
+  width: 230px;
+  display: inline-flex;
+  top: 0px;
+  align-items: center;
+  justify-content: space-between;
+  /*margin-left: 210px;*/
+}
+
+.message-container{
+  background-color: rgb(8, 102, 255);
+  display: inline-block;
+  width: 70px;
+  height: 23px;
+  border-radius: 3px;
+  margin-left: 64px;
+}
+
+.message{
+  width: 60px;
+  border-radius: 3px;
+  padding: 2px 4px;
+}
+
+.like-container{
+  background-color: rgb(228, 230, 235);
+  display: inline-block;
+  width: 48px;
+  height: 23px;
+  border-radius: 3px;
+  margin-left: 6px;
+  padding-top: 0;
+}
+
+.like{
+  width: 40px;
+  border-radius: 3px;
+  padding: 2px 3px;
+}
+
+.search2-container{
+  background-color: rgb(228, 230, 235);
+  display: inline-block;
+  width: 60px;
+  height: 23px;
+  border-radius: 3px;
+  margin-left: 6px;
+}
+
+.search2{
+  width: 50px;
+  border-radius: 3px;
+  padding: 3px 4px;
+}
+
+.bottom-div{
+  font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+  color: rgb(101, 103, 107);
+  height: 35px;
+  display: inline-block;
+  width: 574px;
+  margin-left: 164px;
+  margin-top: 12px;
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.left-section-bd{
+  height: 35px;
+  display: inline-flex;
+  width: 488px;
+  margin-left: 0px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.other-options{
+  height: 24px;
+  display: inline-flex;
+  width: 34px;
+  background-color: rgb(228, 230, 235);
+  margin-left: 46px;
+  border-radius: 5px;
+}
+
+.posts-link,
+.about-link,
+.mentions-link,
+.reviews-link,
+.followers-link,
+.photos-link,
+.more-link{
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.posts-link{
+  margin-left: 10px;
+}
+
+.arrow{
+  width: 5.5px;
+  margin-right: 115px;
+  margin-left: 5px;
+  margin-bottom: 1px;
+}
+
+.other-options-link{
+  color: black;
+  font-size: 10px;
+  font-weight: 700;
+  margin-left: 0px;
+  padding: 5px 10px;
+}

@@ -1,0 +1,133 @@
+.last-part{
+  background-color: rgb(240, 242, 245);
+  display: flex;
+  height: 740px;
+}
+
+.profile{
+  display: inline-block;
+  background-color: rgb(240, 242, 245);
+  height: 300px;
+  width: 237px;
+  border-radius: 5px;
+  margin-top: 13px;
+  margin-left: 164px;
+}
+
+.intro{
+  display: inline-block;
+  background-color: white;
+  width: 237px;
+  border-radius: 5px;
+  height: 86px;
+}
+
+.intro2{
+  display: inline-flex;
+  font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+  font-weight: 900;
+  font-size: 14px;
+  margin-top: 6px;
+  margin-left: 8px;
+}
+
+.pmb{
+  color: rgb(101, 103, 107);
+  font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  display: inline-flex;
+  align-items: center;
+  margin-top: 7px;
+}
+
+.mb{
+  margin-left: 5px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.bold{
+  font-weight: 700;
+  font-size: 10px;
+  color: black;
+}
+
+.i{
+  color: rgb(101, 103, 107);
+  width: 15.5px;
+  margin-left: 8px;
+  border-radius: 7.75px;
+}
+
+.i2{
+  width: 15.5px;
+  margin-left: 5px;
+}
+
+.star{
+  width: 15.5px;
+  margin-left: 8px;
+}
+
+.nyr{
+  margin-left: 5px;
+}
+
+.rating{
+  margin-top: 5px;
+  color: rgb(101, 103, 107);
+  font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.profile-photos{
+  display: inline-block;
+  background-color: white;
+  width: 237px;
+  border-radius: 5px;
+  height: 116px;
+  margin-top: 10px;
+}
+
+.photos-section{
+  font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+  font-weight: 900;
+  font-size: 14px;
+  display: inline-flex;
+  margin-top: 6px;
+  margin-left: 8px;
+}
+
+.see-all-photos{
+  font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+  color: rgb(0, 100, 209);
+  font-size: 12px;
+  display: inline-flex;
+  margin-top: 6px;
+  margin-left: 96px;
+}
+
+.user5{
+  width: 70px;
+  border-radius: 5px;
+  display: inline-flex;
+  margin-top: 10px;
+  margin-left: 8px;
+}
+
+.privacy1{
+  width: 237px;
+  margin-top: 4px;
+  display: inline-block;
+}
+
+.privacy{
+  font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+  color: rgb(101, 103, 107);
+  font-size: 8.8px;
+  display: inline-flex;
+  margin-bottom: 0px;
+  line-height: 12px;
+}
